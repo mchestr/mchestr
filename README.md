@@ -1,3 +1,8 @@
-# `mchestr@puter ~ % whoami`
-
-![](https://github-readme-stats.vercel.app/api?username=mchestr&show_icons=true&hide_title=true&theme=solarized-dark&count_private=true&hide=stars)
+<p align="center">
+  <!-- Monospace Font -->
+  <samp>
+    <a href="https://mikechester.ca">website</a> .
+    <a href="https://www.linkedin.com/in/mchestr/">linkedin</a> .
+    <a href="./metrics.md">metrics</a>
+  </samp>
+</p>
